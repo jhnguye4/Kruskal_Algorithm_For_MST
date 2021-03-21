@@ -1,5 +1,5 @@
 # Kruskal_Algorithm_For_MST
-CSC 505 Project 1: Sorting
+CSC 316 Project 3: Kruskal Algorithm
 
 ## Learning Objective
 This task deals with Minimum Spanning Trees (MST) on weighted graphs. More specifically, you will implement Kruskal’s MST algorithm. MST problems arise very often, especially in applications related to computer networks. Furthermore, an efficient implementation of Kruskal’s algorithm requires a number of the data structures we have discussed in class (i.e., heaps, up-trees and the union-find algorithms, and graphs), and you will have the opportunity to integrate all of them in a single program.
